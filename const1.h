@@ -5,7 +5,8 @@
 //  A very useful set of tools for using SIMD on OS X, 
 //  but can probably easily port this to any clang++ or gcc compiler
 //
-// LICENSE: Freeware with credits in your app's about box
+//  LICENSE: Free for Commercial and Shareware use, however credit
+//  must be given to me in your app's about box.
 
 #pragma once
 
@@ -19,8 +20,6 @@
 #include <iomanip>
 #include <iostream>
 #include <functional>
-
-#define FFT AVFFT
 
 #define MSSFLOAT_IS_FLOAT (sizeof(mssFloat) == sizeof(float))
 
