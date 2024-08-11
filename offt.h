@@ -6,11 +6,10 @@
  **  This FFT wrapper is based on OOURA FFT algorithm, so I am not really
  **  going to officially claim any (C) to it, because I honestly,
  **  just put it together into an aeasy to use C++ templated wrapper,
- **  the great benefit I tested it, it works well with 32-bit and 64-bit
- **  floating point single types or as a form of intrinsic SIMD vectors.
+ **  the great benefit I tested it, it works well floating point single types 
+ **  or as a form of intrinsic SIMD vectors.
  **
- **  I would appreciate credits in the app if you use this fancy c++ wrapper, and I might try to
- **  add assembler optimizations next.
+ **  I would appreciate credits in the app if you use this fancy c++ wrapper.
  **/
 
 #pragma once
