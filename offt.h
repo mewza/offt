@@ -1,4 +1,4 @@
-/** OFFT v1.5 C++ wrapper class written by Dmitry Boldyrev
+/** OFFT v1.0 C++ wrapper class written by Dmitry Boldyrev
  **
  **  GITHUB: https://github.com/mewza
  **  Email: subband@protonmail.com
