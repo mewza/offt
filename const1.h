@@ -1,12 +1,19 @@
-//  const1.h
-//  Copyright 2022-2024 Dmitry Boldyrev
-//  All rights reserved.
-//
-//  A very useful set of tools for using SIMD on OS X, 
-//  but can probably easily port this to any clang++ or gcc compiler
-//
-//  LICENSE: Free for Commercial and Shareware use, however credit
-//  must be given to me in your app's about box.
+/**  const1.h
+ **  Copyright 2022-2024 Dmitry Boldyrev
+ **  All rights reserved.
+ **  
+ **  This file is part of OFFT C++ class located at:
+ **  https://github.com/mewza/offt/
+ ** 
+ **  GITHUB: https://github.com/mewza
+ **  Email: subband@protonmail.com
+ **
+ **  A very useful set of tools for using SIMD on OS X, 
+ **  but can probably easily port this to any clang++ or gcc compiler
+ **
+ **  LICENSE: Free for Commercial and Shareware use, however credit
+ **  must be given to me in your app's about box.
+ **/
 
 #pragma once
 
